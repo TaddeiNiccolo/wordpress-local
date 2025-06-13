@@ -1,0 +1,7 @@
+ # Escludi volumi docker e file inutili
+db_data/
+wordpress/wp-content/uploads/
+wordpress/wp-content/cache/
+wordpress/wp-content/upgrade/
+wordpress/.htaccess
+wordpress/wp-config.php~
